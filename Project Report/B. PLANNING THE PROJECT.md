@@ -13,9 +13,9 @@ The image below is WBS and Gantt Chart of our project:
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----|------|-------|-----|
-|Quality||
-|Cost||
-|Time|||
+|Quality|The system will suggests movie incorreclty based on the rating| In few movies, the rating of movies are low. Meanwhile, the low rated movie will be suggested to the users.It can be identified during the testing phase.|Will notify to Test Manager.|
+|Cost|The project cost will exceeds the budget.|The project cost will increase when the budget not planned well or took longer time to complete the project. Usually, it will be happen during project implementation. | Monitor the progress and keep stakeholders updated. 
+|Time| The project not completed on time. |The project might be delay if goals and objectives are unclear.| Makes sure every team member fully understandS their daily job duties and distractions are not allowed to destroy project timelines.|
 
 ### Responsibility Assignment Matrices (RAM)
 
