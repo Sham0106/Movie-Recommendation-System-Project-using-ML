@@ -5,5 +5,5 @@ Gantt Chart is used to represent the Project Management Life Cycle. For our AI p
 
 The image below is WBS and Gantt Chart of our project:
 
-<img src="assets/ganttchart.JPG" width="100%">
+<img src="img/ganttchart.JPG" width="100%">
 
