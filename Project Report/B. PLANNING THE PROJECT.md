@@ -19,7 +19,7 @@ The image below is WBS and Gantt Chart of our project:
 
 #### Team Members Roles and Responsibilities 
 
-1. SHAMHINIDEVI JAYA BALAN <br><br>
+1. SHAMHINIDEVI JAYA BALAN 
 
 | Roles | Responsibilities |
 |--------|------------------|
@@ -27,7 +27,8 @@ The image below is WBS and Gantt Chart of our project:
 |Technical Manager | The technical manager is a versatile position that requires sufficient managerial skills as well as sufficient technical skills. A technical manager should be able to perform all necessary tasks related to company systems including troubleshooting any technical issues. They must oversee the development and implementation of any system through all steps of the process. |
 |Risk Manager | The role of a Risk Manager is to communicate risk policies and processes for an organization. They provide hands-on development of risk models involving market,credit and operational risk, assure controls are operating effectively, and provide research and analytical support. |
 
-2. ANJCHANAA SEENIVASAGAM <br><br>
+
+2. ANJCHANAA SEENIVASAGAM 
 
 | Roles | Responsibilities |
 |--------|------------------|
