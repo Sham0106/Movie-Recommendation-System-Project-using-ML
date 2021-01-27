@@ -12,7 +12,9 @@
 <img src="img/LessonsLearned1.jpg" width="100%">
 
 #### iii. Final Project Report
+<img src="img/report.jpg" width="100%">
 
 #### iv. Close Contract
+<img src="img/closecontract1.jpg" width="100%">
 
 
