@@ -19,7 +19,9 @@ The image below is WBS and Gantt Chart of our project:
 
 ### Responsibility Assignment Matrices (RAM)
 
-#### Team Members Roles and Responsibilities 
+<img src="img/RAM.jpg" width="100%">
+
+### Team Members Roles and Responsibilities 
 
 1. SHAMHINIDEVI JAYA BALAN 
 
