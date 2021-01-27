@@ -2,8 +2,7 @@
 #### Project Summary:
 
 #### Customer:
-1. Kamal Hassan D. Srinivasan
-2. Rajinikanth Ramoji Rao Gaekwad
+1.  Harman Sdn. Bhd
 
 #### Project name:
 Movie Recommendation System using Machine Learning
