@@ -9,7 +9,7 @@
 - Project Closing Report
 - Fully Completed System
 
-### Tasks & Estimated Costs 
+### Tasks & Estimated Costs: 
 | Task |  Estimated Costs | Notes |
 |-----|----|----|
 |   Acquisition                |RM 315,150                     |  Property, Incidental, Administrative & Indirect Costs      |      
@@ -18,7 +18,7 @@
 |   TOTAL                      |RM 693,250                     |  Estimation Cost     |                              |
 
 
-### Milestone Chart  
+### Milestone Chart:  
 | Milestone |  Scheduled Completion | Actual Completion |
 |-----|----|----|
 |   Milestone 1                |14/10/2020                     | 13/11/2020      |      
