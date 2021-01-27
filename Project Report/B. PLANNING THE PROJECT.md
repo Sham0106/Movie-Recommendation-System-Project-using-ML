@@ -7,7 +7,7 @@ The image below is WBS and Gantt Chart of our project:
 
 <img src="img/wbs.jpg" width="100%">
 
-<img src="img/gantt.JPG" width="100%">
+<img src="img/ganttchart.JPG" width="100%">
 
 ### Risk Identification Chart 
 
