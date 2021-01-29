@@ -21,6 +21,6 @@
 ### Milestone Chart:  
 | Milestone |  Scheduled Completion | Actual Completion |
 |-----|----|----|
-|   Milestone 1                |14/10/2020                     | 13/11/2020      |      
-|   Milestone 2                |16/11/2020                     | 13/01/2021      | 
-|   Milestone 3                |14/01/2021                     | 10/02/2021      |             
+|   Milestone 1                |21/10/2020                     | 23/10/2020      |      
+|   Milestone 2                |09/11/2020                     | 11/11/2021      | 
+|   Milestone 3                |16/01/2021                     | 17/02/2021      |             
